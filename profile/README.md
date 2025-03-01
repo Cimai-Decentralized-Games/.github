@@ -133,4 +133,3 @@ MIT (Meaning "Might Include Thunderbirds")
 
 ![Gary Memorial](https://media.tenor.com/9rQ7i7U9iMYAAAAC/sad-cat.gif)  
 *In loving memory of Gary, who taught us all that GPUs have souls.*  
-```
