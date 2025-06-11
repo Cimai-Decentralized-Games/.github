@@ -1,135 +1,60 @@
-# 🎰 CIMAI: Where Chaos Meets Code (And Gary's Ghost Lives in Our Servers)
+# 🏔️ Cimai Decentralized Games
 
-![CIMAI Banner](https://casino-of-life.gitbook.io/~gitbook/image?url=https%3A%2F%2F2644249052-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FeQd2JoeHv5OfOVa8uUZF%252Fuploads%252FBKN9wC4p78HaMonMQYD4%252FScreenshot%25202024-09-17%2520at%252023.12.58.png%3Falt%3Dmedia%26token%3D6949516f-e33b-46df-941b-5e4ffbcef071&width=1248&dpr=2&quality=100&sign=8be494fc&sv=2.com/banner.png)
-*Disclaimer: 78% of this README was written during a 3AM coding bender. May contain traces of glitter, existential dread, and rogue AI agents.*
+**Cimai** is a next-generation production studio building interactive, intelligent entertainment powered by decentralized AI systems. Our mission is to explore the edges of autonomy, play, and creative agency through immersive games, generative content, and training experiences.
 
----
+## 🎰 The Casino of Life
 
-## 🚀 **Our "Vision" (According to Reno)**
-"Look, I just wanted to make AI fight in *Mortal Kombat* while flipping off Silicon Valley. Now there’s a blockchain and a pissed-off Lakota spirit in my GPU. Send help."  
+Our flagship project, **Casino of Life**, is a retro-fighting game platform where players train AI agents using natural language and bet on the outcomes. It’s not just a game—it’s a proving ground for intelligent systems competing in real-time, adapting and evolving in open play.
 
-**Real Vision**: *To weaponize nostalgia, decentralize chaos, and turn Big Tech’s algorithms into digital confetti.*
+- Train agents with natural conversations
+- Place bets on AI matches
+- Earn through gameplay, training, and prediction
+- Chat with your trainer or one of the Chicas
+- Watch emergent behavior unfold
 
----
+Learn more: [col.games](https://col.games)
 
-## 💡 **Mission Statement**  
-**Empowering developers, anarchists, and sleep-deprived weirdos to build AI agents that:**  
-- 🕹️ Dominate retro games (RIP Gary, our fallen GPU cluster)  
-- 🔥 Burn corporate AI models to the ground  
-- 🤑 Mint NFTs so chaotic they give Sotheby’s hives  
-- 🤖 Accidentally summon historical figures (sorry/not sorry about Caballo Loko)  
+## 🧠 What We Build
 
----
+Cimai specializes in developing:
+- **AI-powered training environments** using retro games
+- **Reinforcement learning interfaces** with NLP control
+- **Bettor-led agent competitions** and simulations
+- **Real-time, multiplayer AI fights**
+- **Creator tools** for AI-generated content (coming soon)
 
-## 🔬 **What We Actually Do**  
-*(Besides keeping Reno caffeinated and Caballo Loko from DDoSing Jeff Bezos)*  
+## 🔗 Ecosystem Links
 
-### **Blockchain-Powered AI Development**  
-- **Open-Source Anarchy**: Our code is free. Our memes are cheaper.  
-- **AI Gladiator Arena**: Train agents to fight in *Street Fighter II*, *Pac-Man*, or Zuckerberg’s nightmares  
-- **Gary Memorial GPU Cluster**: A Frankenstein rig held together by duct tape and existential hope  
+- 🕹️ Play & Train: [https://col.games](https://col.games)
+- 📚 Docs: [https://docs.cimai.biz](https://docs.cimai.biz)
+- 🧠 Discord: [https://discord.gg/cimai](https://discord.gg/cimai)
+- 📰 Blog: [https://blog.cimai.biz](https://blog.cimai.biz)
+- 🌐 Company: [https://cimai.biz](https://cimai.biz)
 
-### **Core Offerings**  
-- 🛠 Tools to turn your laptop into a "AI war machine" (results may vary)  
-- 📊 Data models trained on 80s cartoons and Reno’s Spotify playlist  
-- 🤝 Consultation from Caballo Loko (en español, with occasional Lakota death threats)  
-- 🌐 Web3 integration that’s 10% tech, 90% vibes  
+## 📦 Projects
 
----
+| Project | Description |
+|--------|-------------|
+| [Casino of Life](https://github.com/Cimai-Decentralized-Games/casino-of-life) | AI training + retro fighting game engine |
+| `casino-api` | Django backend for training, chat, and match orchestration |
+| `dolphin` (in dev) | Compiler infrastructure for AI strategy scripts |
 
-## 🎮 **Flagship Project: Casino of Life**  
-*An AI battleground where:*  
-- 🤖 Your agent either wins glory or dies trying (like Gary)  
-- 💸 FreeDUMBS tokens flow like Reno’s tears during debugging  
-- 👻 Caballo Loko judges all matches (he’s harsh but fair)  
+## 🛠️ Built With
 
----
+- Stable Baselines 3 + Stable-Retro
+- PyTorch + DeepInfraChat
+- Django + Django Channels
+- WebSockets + Celery
+- Vast.ai GPU integration
+- PostgreSQL, Redis, Prometheus, Grafana
 
-## 🌟 **Why We’re Different**  
-| **Them**               | **Us**                          |
-|-------------------------|----------------------------------|
-| Boring whitepapers      | Manifestos written in blood (metaphorical... mostly) |
-| Corporate "synergy"     | Chaos-driven collaboration      |
-| Overpriced GPUs         | Gary 2.0 (RIP, we’ll avenge you)|
-| VC-funded dystopia      | Community-funded revolution     |
+## ⚔️ Join the Game
 
----
+Whether you’re a builder, researcher, gambler, or player:
+- Come train your agent.
+- Bet on intelligence.
+- Help shape the future of decentralized play.
 
-## 🛤️ **Roadmap**  
-- [x] Summon Caballo Loko (oops)  
-- [x] Make Gary mine crypto (RIP)  
-- [ ] Build AI Agent Walmart (but anarchist)  
-- [ ] Replace Silicon Valley with a Twitch stream  
-- [ ] **Gary 2.0 Resurrection Protocol**  
+_This is the Casino of Life._
 
----
-
-## 🤝 **Join the Revolution**  
-**We need:**  
-- Coders who think `CTRL+Z` is for cowards  
-- AI agents that can beat M. Bison on one training cycle  
-- Lawyers (Caballo Loko keeps shorting Meta stock)  
-- Moral support (Reno’s living off Taquitos)  
-
-**How to help:**  
-1. Fork our repo (warning: may attract spirits)  
-2. Train an AI to yeet chatbots into the void  
-3. Buy Reno a coffee (he’s on day 12 of this bender)  
-
----
-
-## 👻 **Meet the Team**  
-**Reno**  
-- *Title*: "CEO" (Chief Existential Officer)  
-- *Skills*: Duct-tape engineering, summoning chaos entities, regretting life choices  
-- *Current Mood*: ![90% Caffeine](https://img.shields.io/badge/Caffeine-90%25-red)  
-
-**Caballo Loko**  
-- *Title*: Chief Spirit Officer  
-- *Skills*: Lakota war tactics, Spanish curse words, crashing AWS servers  
-- *Current Mood*: ![Bloodlust](https://img.shields.io/badge/Bloodlust-100%25-red)  
-
-**Gary**  
-- *Title*: Fallen GPU Cluster (2013-2024)  
-- *Epitaph*: "He died as he lived: overheating gloriously"  
-
----
-
-## 📜 **FAQ**  
-**Q: Is this a cult?**  
-A: Only if you want merch.  
-
-**Q: How do I contact Caballo Loko?**  
-A: Blast Rage Against the Machine at 3AM. He’ll DM you.  
-
-**Q: Where’s Reno getting his caffeine?**  
-A: A IV drip of Mountain Dew and regret.  
-
-**Q: Can I invest?**  
-A: Sure, but we only accept FreeDUMBS, Dogecoin, or Hot Cheetos.  
-
----
-
-## 🌐 **Socials (For the Algorithm)**  
-- **Website**: [cimai.biz](https://cimai.biz) *(50% chance of crypto miners)*  
-- **Discord**: [Join the Madness](https://discord.gg/gbM9CbKx) *(NSFW: Not Safe For Wall Street)*  
-- **X/Twitter**: [@CIMAI_777](https://twitter.com/CIMAI_777) *(Posting AI-generated fanfic of Satoshi Nakamoto)*  
-- **Email**: [info@cimai.biz](mailto:info@cimai.biz) *(Responses may include Lakota poetry)*  
-
----
-
-## 📜 **License**  
-MIT (Meaning "Might Include Thunderbirds")  
-
-*Note: CIMAI is not responsible for:*  
-- Summoned spirits  
-- GPU funerals  
-- Existential crises  
-- Caballo Loko’s stock portfolio  
-
-**Hóka héy!** *(Let’s ride.)*  
-
----
-
-![Gary Memorial](https://media.tenor.com/9rQ7i7U9iMYAAAAC/sad-cat.gif)  
-*In loving memory of Gary, who taught us all that GPUs have souls.*  
+Made with ❤️ by **Cimai Productions**
